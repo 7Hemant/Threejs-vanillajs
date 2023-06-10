@@ -8,6 +8,6 @@
 
       so that we can render the scene with camera
 
-_mesh(geometry , material)_
+Next thing we will do is define a material. For lines
 
-# Drawing line
+_mesh(geometry , material)_
